@@ -117,7 +117,7 @@ Le scénario de test suivant a été exécuté :
 6. Suppression de la tâche
 7. Vérification que la tâche n'est plus présente dans la liste
 
-![Capture d'écran des tests Selenium](tests/scenario_selenium.png)
+![Capture d'écran des tests Selenium](tests/img/scenario_selenium.png)
 
 #### Résultats des tests E2E
 
