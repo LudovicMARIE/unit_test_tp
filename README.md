@@ -194,7 +194,7 @@ Le test de charge a été configuré avec les paramètres suivants :
 | Bande passante | Environ 9,5 MB/sec |
 
 
-![Capture d'écran du test JMeter](tests/graphique_test_affluence.png)
+![Capture d'écran du test JMeter](tests/img/graphique_test_affluence.png)
 
 Le graphique des résultats montre une distribution des temps de réponse généralement stable, avec quelques pics occasionnels lors des périodes de charge maximale, mais restant dans des limites acceptables.
 
